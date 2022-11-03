@@ -1,7 +1,6 @@
 # PortSwigger
 
 ## Roadmap
-This primary goal is to add the **Apprentice** and **Practitioner** level labs (since are the ones suggested to complete before taking the exam):
 - [] SQL Injection Labs
 - [] XSS Labs
 - [] CSRF Labs
