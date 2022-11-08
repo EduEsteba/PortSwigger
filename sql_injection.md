@@ -37,3 +37,4 @@ To solve the lab, determine the number of columns returned by the query by perfo
 ```
 ' UNION SELECT NULL,NULL,NULL--
 ```
+
